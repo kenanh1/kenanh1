@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Kenan
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Python Development
+- 🍕 Curently working on project 'MyKitchen'
 <!---- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
